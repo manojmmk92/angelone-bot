@@ -1,5 +1,5 @@
 from flask import Flask, request
-from smartapi.smartConnect import SmartConnect
+from smartapi import SmartConnect
 import pyotp
 import os
 
